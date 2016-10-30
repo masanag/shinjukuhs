@@ -1,0 +1,3 @@
+myFavoriteFruit = "pineapple"
+myFavoriteColor = "lavendar"
+
